@@ -1,0 +1,42 @@
+body{
+    font-family: Andale Mono, monospace;
+}
+.flyer{
+    /*background: linear-gradient(#FFE6CE,white);*/
+    background-color: #FFE6CE;
+   border-color: white;
+   border: 10px white solid;
+    max-width: 1131px;
+    max-height: 1800px;
+   resize: both;
+}
+h1, h4, h3, h2{
+    font-weight: lighter;
+}
+.title{
+    margin-top: 12%;
+    text-align: center;
+    font-size:x-large;
+}
+.image{
+    margin: 4%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px #F3C9A2;;
+}
+.banhmi-image{
+   text-align: center;
+   
+}
+.name-event{
+    font-size: x-large;
+    text-align: center;
+}
+.place{
+    margin-top: 5%;
+    text-align: center;
+}
+.description{
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 7%;
+}
